@@ -19,7 +19,7 @@ const NavItems = () => {
 
             const isOpen = i === activeIndex
             return ()
-                <NavItem />
+                <NavItem /> // last part
         })}
     </div>
 
